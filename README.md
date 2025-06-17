@@ -5,9 +5,10 @@
 <br>
 
 ## 🗂️프로젝트 목록
-|프로젝트명|설명|기술스택|링크|
-|--|--|--|--|
-| 자격모아 | 자격증 통합 모바일 애플리케이션 | Dart, Firebase, Flutter Framwork| [자격모아 바로가기](아직없음)|
+|프로젝트명|설명|기술스택|유형|인원|개발시기|링크|
+|--|--|--|--|--|--|--|
+| 자격모아 | 자격증 통합 모바일 애플리케이션 | Dart, Firebase, Flutter Framwork| 개인 |1|2025.04.29 ~ 진행중| [자격모아 바로가기](아직없음)|
+| 잇다 | 멘토-멘티 연결 웹 애플리케이션 | React, SpringBoot, aws | 팀 |3|2025.03.03 ~ 진행중| [잇다 바로가기](아직없음)|
 
 <br>
 
@@ -19,6 +20,15 @@
 
 ## 🛠️사용기술
 - frontend: React, Tailwinds, Flutter, Dart
-- backend: Spring Boot, firebase, Node.js
+- backend: SpringBoot, firebase, Node.js
 - DB: MariaDB, aws DB, Localdatabase
 - 기타: Kakao 로그인 API, KaKao 도서검색 API
+
+<br>
+
+## 📬연락처
+- 이메일: kbe542154@gmail.com / kj315306@naver.com
+
+<br>
+
+<br>
