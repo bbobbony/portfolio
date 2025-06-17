@@ -14,3 +14,11 @@
 ## 💡목적
 이 포트폴리오 레포지토리는 제 개발역량을 보여주시 위한 용도로 제작되었습니다. <br>
 특히 백엔드와 프론트엔드 모두 경험한 다양한 프로젝트를 통해 웹앱, 모바일앱에 대한 이해를 높였습니다.
+
+<br>
+
+## 🛠️사용기술
+- frontend: React, Tailwinds, Flutter, Dart
+- backend: Spring Boot, firebase, Node.js
+- DB: MariaDB, aws DB, Localdatabase
+- 기타: Kakao 로그인 API, KaKao 도서검색 API
